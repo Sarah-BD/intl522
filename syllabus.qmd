@@ -1,0 +1,167 @@
+---
+title: "Syllabus"
+subtitle: "INTL-I 522: Global Development · Fall 2026"
+toc: true
+---
+
+::: {.info-box}
+### {{< fa circle-info >}} Course at a glance
+**Instructor:** Prof. Sarah Bauerle Danzman · <sbauerle@iu.edu><br>
+**Meeting time:** Mondays & Wednesdays, 12:45–2:00 PM<br>
+**Location:** Cedar Hall C107<br>
+**Term:** Classes Aug 24 – Dec 9, 2026; final deadlines Dec 14 & 16 (finals week)<br>
+**Office hours:** M/W 2–3:30 PM (GISB 1013), and by appointment via [Microsoft Bookings](https://bookings.cloud.microsoft/book/ProfBDsOfficeHours@bookings.iu.edu/?ismsaljsauthenabled=true)
+:::
+
+*This syllabus is a living document. The schedule and assigned readings are subject to change; the most current version always lives on this site.*
+
+---
+
+## Course description
+
+**INTL-I 522 Theoretical and Empirical Overview of Global Development (3 cr.)** Explores theories and approaches of global development as well as the political, economic, social, and cultural forces shaping global development outcomes. Considers the role of geography, institutions, global markets and trade, civil society, and historical forces in exploration of the causes and consequences of development.
+
+I-522 is a core graduate course for the Masters of International Studies and a core requirement for the Global Development, Environment, and Sustainability concentration of the Masters of International Affairs. We take on large questions: Why are some countries poor while others are not? What are the principal theories and approaches that explain this divergence? What are the empirical regularities — drivers and consequences — of increased standards of living? We work through six books and a set of recent articles that together trace the field's central debates, from the meaning and measurement of development itself, through the historical origins of modern growth, the role of the state in industrial transformation, the political economy of Africa's development, the international institutions that discipline poor-country policy, and the micro-level economics of poverty — ending with the newest frontier: what AI may mean for development. There are no graduate-level prerequisites for this class.
+
+## Aims & outcomes
+
+By the end of this course you will be able to:
+
+- Explain and critically compare the major theoretical approaches to global development — capabilities, institutionalist, structuralist, and experimental — and identify what each takes to be the binding constraint on development.
+- Evaluate the empirical evidence behind competing causal claims about development, including the strengths and limits of cross-country, historical, and experimental research designs.
+- Analyze how development is measured, what different measures capture and conceal, and how measurement choices shape policy — at both macro and household levels, using real data.
+- Assess the role of international institutions, markets, and geopolitics in enabling and constraining development strategies.
+- Construct your own synthetic causal map of development — the course précis — and defend it.
+- Produce professional-genre analysis: a policy memo or synthetic literature review, developed through structured milestones and presented to peers.
+
+## How this course works
+
+This is a **graduate seminar** — lecture is minimal. The course runs on sustained discussion of shared texts, and in a small seminar every member's preparation is essential. You are in charge of your learning, not me.
+
+::: {.info-box}
+### {{< fa pen-to-square >}} Before class — session notes with rotating roles
+For every reading-bearing session you submit a two-part note: a core analysis (the reading's central causal claim, the evidence and whether it convinces you, and one point you are prepared to argue) plus a short section written from your rotating weekly role — **Discussion Leader, Skeptic, Connector, or Practitioner**. Full instructions: [Session Notes & Discussion Roles](session-notes-roles.qmd).
+:::
+
+::: {.info-box}
+### {{< fa comments >}} In class — discussion
+We open most sessions by putting the session notes side by side; where they diverge is where discussion starts. I will at times provide structured overviews, but the work of the course happens in the conversation.
+:::
+
+To prepare, organize your reading notes around these questions: What is the research puzzle? Why does it matter — what gap or inconsistency does it engage? What answer does the author propose, and on what assumptions? How would we know if the author were wrong — what evidence and methodology support the claim? Is the argument convincing, and if not, what would make it more so?
+
+---
+
+## Measurement of progress
+
+| Component | Weight |
+|---|---|
+| Final project (individual; milestones Oct 9 · Nov 6 · Nov 30 · Dec 7 · Dec 16) | **30%** |
+| Participation (incl. week-13 asynchronous discussion) | **25%** |
+| Session notes & discussion roles (credit/no-credit; best 18) | **20%** |
+| Data projects (macro, due Sep 4 · micro, due Nov 20) | **15%** |
+| Course précis (workshopped Oct 5; due Dec 14) | **10%** |
+
+See the [assignments page](assignments.qmd) for full details on each component.
+
+### Grading scale
+
+| Grade | Range | | Grade | Range |
+|---|---|---|---|---|
+| A+ | ≥ 97% | | C+ | [77, 80) |
+| A | [93, 97) | | C | [73, 77) |
+| A− | [90, 93) | | C− | [70, 73) |
+| B+ | [87, 90) | | D+ | [67, 70) |
+| B | [83, 87) | | D | [63, 67) |
+| B− | [80, 83) | | D− | [60, 63) |
+| | | | F | < 60 |
+
+Assignments lose a full letter grade (10%) for each day late unless you have been granted an extension in advance or have extenuating circumstances. Credit/no-credit session notes are the exception: late notes receive no credit, because the class needs them before discussion.
+
+### Grading philosophy
+
+Grades are necessary but imperfect assessments of achievement at a moment in time — not a judgment of your worth, character, or potential. I do not entertain requests to "round up" or for ad-hoc extra credit. At the end of the term, if you are within 0.5% of the next higher letter grade **and** have turned in all assignments on time, I will round up; if you have not been timely, I will not. If you're concerned about your grade, come to office hours early — the period between the last class and final grade submission is not an appropriate time to discuss grades, except for a potential grading error.
+
+---
+
+## Course policies
+
+### Intellectual diversity
+
+Development is a field of live disagreement — about what causes growth, what states should do, and what rich countries owe poor ones. Course materials present a variety of arguments, and the seminar is designed for thoughtful, reasoned debate. Four rules help:
+
+1. Frame disagreements as debates rather than conflicts.
+2. Argue as if you are right, but listen as if you are wrong.
+3. Make the most respectful interpretation of the other person's perspective.
+4. Acknowledge where you agree with others and what you've learned from peers with whom you differ.
+
+### Generative AI policy
+
+Generative AI tools are now part of research and policy work, and you may use them in this course — within limits, under your supervision, and with full disclosure.
+
+- **As a research tool.** You may use AI to help you locate literature, explore data, summarize material, and test your understanding of the readings. You are responsible for verifying everything an AI tells you against the actual sources. These tools fabricate citations and misstate findings with complete confidence; an invented source or a wrong claim in your work is your error, not the tool's.
+- **As a writing aid — supervised and heavily revised.** You may use AI to help with some of your writing. Any AI-assisted text must be heavily edited and revised by you before it appears in your work. You are responsible for the precision of your prose and for keeping the common markers of AI writing from overwhelming it: "it's not X, it's Y" constructions, overconfident assertion, strange word choices, and a generic voice that is not your own. If a passage reads like a chatbot wrote it, you have not finished the assignment.
+- **Disclosure, always.** Every submission in which you used AI in any way — for research, data work, or writing — must include a brief AI-use note stating which tools you used and for what. Undisclosed AI use is academic misconduct and will be handled under the Code of Student Rights, Responsibilities, and Conduct.
+- **The exception: session notes.** Session notes must be written entirely in your own words, without generative AI. They are your discussion preparation — your thinking made visible — and the gap between what you wrote and what you can say in the room is immediately obvious.
+
+If you are ever unsure whether a particular use is permitted, ask first.
+
+### Accommodations for religious observances
+
+IU respects the right of all students to observe their religion. If you require accommodations for a religious observance, submit a request by the end of the second week (a separate request per absence). I will approve these provided they're filed within the first two weeks, and you'll have an opportunity to make up missed work.
+
+### Email & office hours
+
+Reserve email for clarifying questions or scheduling; office hours are for substantive questions and grade discussions. I try to respond within one business day. Office hours are also a chance for me to get to know you — which works to your advantage (I write much better recommendation letters for students I know). Arrive with specific questions.
+
+### Re-grading requests
+
+After graded material is returned, I maintain a **48-hour reflection period** before discussing grades. When I re-examine work with fresh eyes, I reserve the right to assign a grade lower than the original if appropriate.
+
+### Honor code
+
+As an IU student you are expected to adhere to the Code of Student Rights, Responsibilities, and Conduct. Submitting work with your name on it signifies it is yours unless otherwise cited. Suspected violations are handled per University policy and reported to the Dean of Students.
+
+---
+
+## Student resources
+
+::: {.info-box}
+### {{< fa heart >}} Counseling & Psychological Services (CAPS)
+24/7 crisis line: **812-855-5711** (option 1). Schedule a visit through the same number.
+:::
+
+::: {.info-box}
+### {{< fa universal-access >}} Accessible Educational Services (AES)
+Establish disability-related accommodations through AES as early as possible — services are confidential, take time to set up, and are not retroactive.
+:::
+
+::: {.info-box}
+### {{< fa shield-halved >}} Title IX & nondiscrimination
+IU prohibits sexual misconduct and discrimination. I am required to report disclosures of potential sexual misconduct to the campus Title IX Coordinator. Confidential support is available; learn more at [stopsexualviolence.iu.edu](https://stopsexualviolence.iu.edu).
+:::
+
+---
+
+## Required texts
+
+We read six books, roughly one every two weeks. Purchase, borrow, or use library copies — any edition is fine unless noted:
+
+1. Amartya Sen, *Development as Freedom* (Anchor Books, 1999)
+2. Mark Koyama & Jared Rubin, *How the World Became Rich: The Historical Origins of Economic Growth* (Polity, 2022)
+3. Peter Evans, *Embedded Autonomy: States and Industrial Transformation* (Princeton University Press, 1995)
+4. Christopher Cramer, John Sender & Arkebe Oqubay, *African Economic Development: Evidence, Theory, Policy* (Oxford University Press, 2020 — open access; PDF on Canvas)
+5. Alexander Kentikelenis & Thomas Stubbs, *A Thousand Cuts: Social Protection in the Age of Austerity* (Oxford University Press, 2023)
+6. Abhijit Banerjee & Esther Duflo, *Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty* (PublicAffairs, 2011)
+
+All assigned articles are posted on [Canvas](https://canvas.iu.edu):
+
+- Amanda Kay McVety, "Wealth and Nations: The Origins of International Development Assistance," ch. 2 in Stephen J. Macekura & Erez Manela, eds., *The Development Century: A Global History* (Cambridge University Press, 2018), pp. 21–39
+- Réka Juhász, Nathan Lane & Dani Rodrik, "The New Economics of Industrial Policy" (2024)
+- Dani Rodrik & Joseph Stiglitz, "A New Growth Strategy for Developing Nations" (2024)
+- Charles I. Jones, "A.I. and Our Economic Future" (NBER Working Paper 34779, 2026)
+- Daron Acemoglu, "The Simple Macroeconomics of AI" (NBER Working Paper 32487, 2024)
+- Anton Korinek & Joseph Stiglitz, "Artificial Intelligence, Globalization, and Strategies for Economic Development" (NBER Working Paper 28453, 2021)
+- Nicholas Otis, Rowan Clarke, Solène Delecourt, David Holtz & Rembrand Koning, "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya" (*Management Science*, 2025)
+
+The [schedule](schedule.qmd) is the authoritative source for what is due when. Let me know as soon as possible if you need financial assistance obtaining the books.

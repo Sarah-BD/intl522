@@ -1,0 +1,54 @@
+---
+title: "Final Project"
+subtitle: "Policy memo or synthetic literature review · 30% of course grade"
+---
+
+The final project is where you take ownership of one development question and produce something in a professional genre — the kind of document you may write in your career. It is an individual project, developed across the second half of the semester through a series of milestones, presented to the class in our final week, and revised before final submission. This page provides detailed instructions; the [assignments page](assignments.qmd) has the summary and the [syllabus](syllabus.qmd) has grade weights and policies.
+
+## Choosing your genre
+
+You will choose one of two genres. Both are legitimate professional forms, and the right choice depends on your interests and career goals. I encourage you to come to office hours before the topic memo is due to talk through your options.
+
+::: {.info-box}
+### {{< fa file-lines >}} Option 1 — Policy memo
+A memo of **no more than 4 pages, single-spaced** (plus appendices), addressed to a specific government agency, international organization, or NGO of your choice. Your memo will analyze one development challenge and propose a course of action. Do not let the short length fool you: memos must be impeccably researched, and it will be hard to cover everything you need in that little space. The discipline of deciding what to leave out is a large part of what this genre teaches. This option will help you develop the capacity to translate research into potential policy strategies.
+:::
+
+::: {.info-box}
+### {{< fa book-open >}} Option 2 — Synthetic literature review
+A review of **10–15 pages, single-spaced**, providing an authoritative overview of the main concepts, findings, and debates around one question of development. This is a deep dive into an issue we covered briefly in class, or one we did not cover at all. Your review should organize the literature around its debates rather than marching through papers one at a time, evaluate the kinds of evidence scholars use to assess theoretical claims, and offer suggestions for how the literature could move forward. This option is especially useful if you are considering a PhD or a more research-oriented (rather than policy or practitioner) trajectory.
+:::
+
+## What makes a strong project
+
+Whichever genre you choose, I will be looking for the same underlying qualities we practice all semester in session notes: a precisely stated causal claim, intellectually honest engagement with the evidence for and against it (rather than relying on motivated reasoning), and awareness of what the argument implies for practice. Strong projects take a position. A memo that lists considerations without recommending anything, or a literature review that summarizes extant research without adjudicating persistent debates in the field, has not finished the analytic work.
+
+Your topic should connect to the themes of this course, but it does not need to come from the assigned readings. If you are unsure whether a topic will work, ask early.
+
+## Milestones
+
+The project is scaffolded so that you cannot procrastinate until the end of term, and so that I can give you meaningful feedback while it can still change what you write. All milestone percentages count within the project's 30%.
+
+| Milestone | Date | Weight | What to submit |
+|-----------|------|--------|----------------|
+| Topic memo | Fri Oct 9, COB | 2.5% | One page: your question, why it matters, which genre you have chosen and why, and five starter sources. Submit as a PDF on Canvas. |
+| Prospectus + annotated bibliography | Fri Nov 6, COB | 2.5% | An outline of your argument (for the memo: the problem, the options, your emerging recommendation; for the review: the debates and how you will organize them) plus an annotated bibliography of 8–12 sources with two or three sentences on each source's argument and how you will use it. Submit as a PDF on Canvas. |
+| Full draft + conference | Mon Nov 30 | 5% | A complete draft — full prose, not an outline. Submit as a PDF on Canvas by the start of class. We will meet for an individual 20-minute conference during that week to discuss it. |
+| Presentation | Mon Dec 7 | 7.5% | A 15-minute slot: roughly 12 minutes presenting, followed by questions (with four presenters in one 75-minute session, the timing is real). Present the question, your argument, the evidence behind it, and (for memos) your recommendation. Your colleagues have spent the semester building the same toolkit you have — expect good questions. |
+| Final version | Wed Dec 16 | 12.5% | The revised project, submitted as a PDF on Canvas, accompanied by a short paragraph describing what you changed after the conference and presentation feedback. |
+
+A note on the draft: "complete" means I can read it as the project it will become and therefore provide you with clear, precise, and specific feedback. Drafts that arrive as fragments waste our conference session, which is the single most useful feedback opportunity in the sequence.
+
+## Evaluation
+
+**Policy memos** are evaluated on the clarity and specificity of the recommendation, the quality of the research behind it, the extent to which costs and counterarguments are adequately addressed, and the professionalism of the writing — your addressee should be able to act on this document.
+
+**Literature reviews** are evaluated on coverage of the relevant scholarship, the quality of the synthesis (debates and adjudication, not summary), the sophistication of the evidence evaluation, and the usefulness of the suggested paths forward for future research.
+
+Both genres are evaluated on writing as well as content. Impeccable prose, accurate citation, and clean presentation are part of the assignment. People will pay attention to what you say when you can communicate your thoughts clearly, succinctly, and in a manner that is enjoyable to read.
+
+## Policies
+
+The course [generative AI policy](syllabus.qmd) applies to every milestone: you may use AI as a research tool and, with heavy editing and revision under your supervision, as a writing aid — but every use must be disclosed in a brief AI-use note submitted with the milestone, and the argument, the analysis, and the final prose are your responsibility. Remember that both genres are evaluated on the quality of the writing; prose that is heavily reliant on AI is usually not precise enough for prime time.
+
+The late-work policy on the syllabus applies to every milestone; because each milestone feeds the next, falling behind compounds quickly. Talk to me early if you are struggling.

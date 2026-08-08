@@ -1,0 +1,36 @@
+---
+title: "Course Précis"
+subtitle: "Your synthetic map of what causes development · 10% of course grade"
+---
+
+Throughout the semester, you will work individually and as a collective to develop a synthetic overview of the key concepts of this course — a high-quality summary of the material that you can take with you when the semester ends. This is the course précis. It is the one assignment whose primary audience is your future self: done well, it is the document you will reach for years from now when you need to remember how the pieces of the development literature fit together. This page provides detailed instructions; the [assignments page](assignments.qmd) has the summary and the [syllabus](syllabus.qmd) has grade weights and policies.
+
+## What it is
+
+The précis is a combination of **words and figures**. We will especially think about **causal chains** — what causes development, through what mechanisms, on what evidence — so your document must include these chains as diagrams, not only as prose. A reader should be able to look at your figures and see your understanding of how geography, institutions, states, markets, international forces, and household behavior connect to development outcomes, and where the major theories disagree about those connections.
+
+There is no fixed page length. Most strong précis documents end up somewhere around 6–10 pages including figures, but I will evaluate synthesis, not volume. A tight document that maps the arguments accurately beats a long one that summarizes each book in sequence.
+
+## How it builds across the semester
+
+The précis is not a document you write at the end; it is a document you revise all term. The course is structured to help you develop a habit of consistently revising and updating it:
+
+- **Your session notes are the raw material.** Every Part 1 entry states a reading's central causal claim — those claims are the nodes and arrows of your map. The Connector role does précis work explicitly: each week, the Connector's additions help revise and update the **shared causal map** we develop together in class, and that shared map informs (but does not replace) each student's individual document. Therefore, everyone in the class will be better off if the Connector for the week takes their role seriously and shares their notes with the group. The Discussion Leaders should be sure to structure class conversation to ensure that there is ample discussion on connections across weeks. The better your session notes as well as the notes you take during class discussion, the easier time you'll have constructing your course précis.
+- **The Oct 5 workshop is the first checkpoint.** Bring a working draft that maps the causal arguments of Sen, Koyama & Rubin, and Evans against each other. We will spend the session comparing maps, arguing about where the arrows go, and identifying what each framework treats as the binding constraint on development. Your draft can be rough — hand-drawn figures are welcome at this stage — but you must do the pre-work; the class session will not be helpful if you show up unprepared.
+- **Each new book complicates the map.** After the Africa book, *A Thousand Cuts*, *Poor Economics*, and the AI unit, expect to revise: some causal arrows will see their evidence strengthen, some causal pathways may seem to diminish, and some of what looked like settled understanding of what causes development in September will no longer seem so straightforward in November. Tracking those revisions is the intellectual point of the assignment.
+
+## The final version
+
+The final précis is due **Monday, December 14**, submitted as a PDF on Canvas. It should include:
+
+1. **The map** — one or more causal diagrams presenting your synthesis of how development happens, with the major mechanisms labeled;
+2. **The argument** — prose that walks a reader through your map, explains where the course's major frameworks agree and disagree, and says which claims you find best supported and why;
+3. **The evidence** — brief notes on what kind of evidence underwrites the key links (historical, cross-country, experimental), and which links you consider weakest.
+
+## Evaluation
+
+I evaluate the précis on the accuracy with which it represents the arguments we studied, the quality of the synthesis across books (connections and adjudication, not book-by-book summary), the clarity and correctness of the causal diagrams, and its usefulness as a standalone document — could a strong student entering this course next year learn the terrain from your précis? Figures may be drawn in any tool you like, or drawn by hand and scanned cleanly.
+
+## Policies
+
+The course [generative AI policy](syllabus.qmd) applies: AI may assist with research and, heavily edited and revised, with writing — and all use must be disclosed in a brief AI-use note. Keep in mind what the précis is for: it is precisely your own synthesis that makes the document valuable, to you most of all, and a map you did not build yourself will not serve you when you reach for it later.

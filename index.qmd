@@ -1,0 +1,101 @@
+---
+title: "Global Development"
+subtitle: "Why are some countries rich and others poor — and what, if anything, can be done about it?"
+toc: false
+---
+
+::: {.hero-banner}
+# Global Development
+
+::: {.subtitle}
+Why are some countries rich and others poor — and what, if anything, can be done about it?
+:::
+
+::: {.course-details}
+INTL-I 522 • Fall 2026<br>
+Indiana University<br>
+August 24 – December 16, 2026
+:::
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+## Instructor
+
+**Professor Sarah Bauerle Danzman**<br>
+{{< fa envelope >}} <sbauerle@iu.edu><br>
+{{< fa clock >}} Office hours: M/W 2–3:30 PM, GISB 1013<br>
+[{{< fa calendar >}} Or schedule an appointment](https://bookings.cloud.microsoft/book/ProfBDsOfficeHours@bookings.iu.edu/?ismsaljsauthenabled=true)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Course Details
+
+**When:** Monday & Wednesday, 12:45–2:00 PM<br>
+**Where:** Cedar Hall C107<br>
+**Format:** Graduate seminar
+
+:::
+
+:::
+
+---
+
+## About This Course
+
+I-522 is a core graduate course for the Masters of International Studies and a core requirement for the Global Development, Environment, and Sustainability concentration of the Masters of International Affairs. We take on large questions: Why are some countries poor while others are not? What theories and approaches explain this divergence? What are the empirical regularities — the drivers and the consequences — of rising standards of living? We examine the political, economic, social, and cultural forces shaping development outcomes, and we consider the roles of geography, institutions, markets, states, international organizations, and domestic governance along the way.
+
+This is a seminar; lecture is minimal. The course works through sustained discussion of six books and a set of recent articles, and it depends on every member arriving prepared, every session. In a small seminar, your preparation is not private — it is the raw material the class runs on.
+
+---
+
+## Course Materials
+
+We read six books this semester, roughly one every two weeks:
+
+- Amartya Sen, *Development as Freedom*
+- Mark Koyama & Jared Rubin, *How the World Became Rich*
+- Peter Evans, *Embedded Autonomy: States and Industrial Transformation*
+- Christopher Cramer, John Sender & Arkebe Oqubay, *African Economic Development: Evidence, Theory, Policy*
+- Alexander Kentikelenis & Thomas Stubbs, *A Thousand Cuts: Social Protection in the Age of Austerity*
+- Abhijit Banerjee & Esther Duflo, *Poor Economics*
+
+Scholarly articles and any additional materials are posted on [Canvas](https://canvas.iu.edu). The [Schedule](schedule.qmd) page is the authoritative source for what is due when.
+
+---
+
+## How the Course Works
+
+Before each session you will write **session notes** — in which you identify the reading's central causal claim, the evidence behind it, and one point you are prepared to argue — plus a short section from your rotating weekly **discussion role**: Discussion Leader, Skeptic, Connector, or Practitioner. Class opens with a very short scene setting lecture by me. Then we will compare our peers' notes side by side; any divergence will be an important part of class conversation and each student's discussion role will help structure productive engagement. Across the semester your notes accumulate into a **course précis**: your own synthetic map of what causes development, refined in a mid-course workshop and finalized at the end of the term.
+
+Two **data projects** will help develop students' familiarity and ease of working with data — one macro (how development is measured, and what the measures hide), one micro (how poor households actually earn, spend, borrow, and insure). An individual **final project** — a policy memo or a synthetic literature review, your choice — is scaffolded across the second half of the course and presented in the final week.
+
+Details on all of it: [Assignments](assignments.qmd).
+
+---
+
+## Getting Started
+
+- Review the [syllabus](syllabus.qmd) for policies, grading, and expectations — including the generative AI policy
+- Check the [schedule](schedule.qmd) for session-by-session readings and deadlines
+- See [assignments](assignments.qmd) for the data projects, the précis, and the final project — and [session notes & discussion roles](session-notes-roles.qmd) for the weekly writing system
+- Browse [resources](resources.qmd) for the data sources you'll need for both data projects
+- Get the six books (full citations on the [syllabus](syllabus.qmd)) — Sen and Koyama & Rubin come first
+
+Assigned articles are posted on Canvas, where you'll also submit work and find grades.
+
+---
+
+## Contacting Me
+
+{{< fa envelope >}} **Email** is the best way to reach me: <sbauerle@iu.edu>. I respond to course-related email within one business day.
+
+{{< fa calendar-alt >}} **Office hours:** Mondays & Wednesdays 2–3:30 PM in GISB 1013, and by appointment via [Microsoft Bookings](https://bookings.cloud.microsoft/book/ProfBDsOfficeHours@bookings.iu.edu/?ismsaljsauthenabled=true).
+
+---
+
+## Acknowledgments
+
+The website design is inspired by [Andrew Heiss](https://www.andrewheiss.com/)'s course websites.

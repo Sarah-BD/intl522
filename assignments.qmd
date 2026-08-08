@@ -1,0 +1,98 @@
+---
+title: "Assignments"
+subtitle: "What you'll produce, when, and why"
+---
+
+Grade weights and policies are listed on the [Syllabus](syllabus.qmd); this page describes each assignment in working detail. Due dates also appear on the [Schedule](schedule.qmd), which is authoritative.
+
+::: {.assignment-card}
+### {{< fa comments >}} Participation — 25%
+
+::: {.assignment-meta}
+Every session · [Week-13 async discussion]{.due-date} included
+:::
+
+This seminar runs on discussion, and with a small group every voice is required for the course to work. Participation credit reflects prepared, substantive engagement: advancing an argument, testing someone else's, connecting the current book to earlier frameworks, and building on — rather than past — your colleagues' contributions. Attendance is necessary but not sufficient. The asynchronous structured discussion of *Poor Economics* chs. 8–10 (week of Nov 16) counts here.
+:::
+
+::: {.assignment-card}
+### {{< fa pen-to-square >}} Session Notes & Discussion Roles — 20%
+
+::: {.assignment-meta}
+Before each reading-bearing class · credit/no-credit · [best 18 count]{.due-date}
+:::
+
+Before every class with assigned reading, bring **five printed copies** of a two-part note (**300–450 words total**) to hand in at the start of class:
+
+1. **The core (200–300 words, everyone).** The reading's central causal claim about development; the evidence and whether it convinces you; one point you are prepared to argue in class.
+2. **Your role (100–150 words).** Each week you hold one of four rotating roles, and your note adds a short section written from that role's perspective: **Discussion Leader** (writes the session's agenda — the 3–5 questions actually worth our discussion time — and steers discussion in class), **Skeptic** (identifies the weakest link in the causal chain and makes the strongest counterargument), **Connector** (ties the reading to earlier books and the running causal map), or **Practitioner** (translates the argument into implications for a government, IO, NGO, or firm).
+
+Notes are due before class and graded credit/no-credit; roughly 21 sessions carry notes and your best 18 count, so there is slack built in. We open most sessions by putting the four core claims side by side — where they diverge is where discussion starts — and the roles give the hour its structure, friction, memory, and stakes. Roles rotate weekly, so you cycle through all four about every four weeks. Save your notes: they are the raw material for your course précis.
+
+**Full instructions, role descriptions, and rotation details: [Session Notes & Discussion Roles](session-notes-roles.qmd).**
+:::
+
+::: {.assignment-card}
+### {{< fa chart-line >}} Data Project 1: Measuring Development — 7.5%
+
+::: {.assignment-meta}
+Assigned Mon Aug 31 · [Due Fri Sep 4, COB (Canvas)]{.due-date} · in-class debrief Sep 9
+:::
+
+How development is measured shapes what development means. Choose a region and three focus countries, investigate them through at least three distinct measures of development, chart the trends, and analyze what each measure captures, what it hides, and where the measures disagree — and why. Deliverable: a 3–4 page data brief with data appendix, presented at the Sep 9 debrief (which replaces our cancelled Sep 2 meeting).
+
+Generative AI may assist with data wrangling and visualization, **with disclosure** (see the AI policy on the [Syllabus](syllabus.qmd)); the analysis and interpretation must be yours.
+
+**Full instructions, sources, and the evaluation rubric: [Data Projects](data-projects.qmd).**
+:::
+
+::: {.assignment-card}
+### {{< fa magnifying-glass-chart >}} Data Project 2: The Economic Lives of the Poor — 7.5%
+
+::: {.assignment-meta}
+Assigned week of Nov 16 · [Due Fri Nov 20, COB (Canvas)]{.due-date} · in-class debrief Nov 30
+:::
+
+The micro-level counterpart to Project 1, keyed to *Poor Economics*. Using household-level data (DHS, LSMS, Global Findex, or a J-PAL evaluation, among others), profile how poor households in one of your Project 1 countries earn, spend, borrow, and insure. Connect what you find to Banerjee and Duflo's evidence — and to the macro measures from Project 1: what does the micro view reveal that your aggregates concealed? Same format and AI-disclosure terms as Project 1. Debrief in class Mon Nov 30.
+
+**Full instructions, sources, and the evaluation rubric: [Data Projects](data-projects.qmd).**
+:::
+
+::: {.assignment-card}
+### {{< fa diagram-project >}} Course Précis — 10%
+
+::: {.assignment-meta}
+Workshopped Mon Oct 5 · [Final version due Mon Dec 14]{.due-date}
+:::
+
+Across the semester you will build a synthetic overview of the course's key concepts — in words and figures, with particular attention to causal chains: what causes development, through what mechanisms, on what evidence. Your session notes feed it directly, and the shared causal map we develop in class informs each student's individual document. We workshop the précis on Oct 5, mapping the causal arguments of Sen, Koyama & Rubin, and Evans against each other, and we return to it as each new book complicates the map. The final version should be a document you can take with you — a high-quality summary of what this course taught you about how development works.
+
+**Full instructions, required components, and evaluation criteria: [Course Précis](course-precis.qmd).**
+:::
+
+::: {.assignment-card}
+### {{< fa file-lines >}} Final Project — 30%
+
+::: {.assignment-meta}
+Individual · milestones Oct 9 → Nov 6 → Nov 30 → Dec 7 · [Final version due Wed Dec 16]{.due-date}
+:::
+
+Choose one of two genres:
+
+- **Policy memo** — max 4 pages single-spaced plus appendices, addressed to a government, international organization, or agency of your choice, analyzing one development challenge and proposing a response. Do not let the short length fool you: memos must be impeccably researched, and space is the constraint that forces judgment.
+- **Synthetic literature review** — 10–15 pages single-spaced: an authoritative overview of the concepts, findings, and debates around one development question, an evaluation of the evidence used to adjudicate theoretical claims, and suggestions for where the literature should go. Especially useful if you are considering doctoral study.
+
+**Milestones** (all counted within the 30%):
+
+| Milestone | Date | Weight |
+|-----------|------|--------|
+| Topic memo — question, stakes, genre choice, five starter sources (1 page) | Fri Oct 9, COB (Canvas) | 2.5% |
+| Prospectus + annotated bibliography | Fri Nov 6, COB (Canvas) | 2.5% |
+| Full draft, followed by an individual conference | Mon Nov 30 | 5% |
+| Presentation | Mon Dec 7 | 7.5% |
+| Final version, revised after presentation feedback | Wed Dec 16 | 12.5% |
+
+The course generative AI policy applies to every milestone — AI may assist with research and, heavily revised, with writing; all use must be disclosed (see the [Syllabus](syllabus.qmd)).
+
+**Full instructions, genre guidance, milestone details, and evaluation criteria: [Final Project](final-project.qmd).**
+:::

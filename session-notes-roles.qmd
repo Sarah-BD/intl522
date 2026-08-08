@@ -1,0 +1,60 @@
+---
+title: "Session Notes & Discussion Roles"
+subtitle: "Full instructions for the course's weekly writing and discussion system"
+---
+
+Session notes are the core way that students meaningfully prepare for each meeting of this seminar. Every member writes before every class that has assigned reading, everyone's writing is used in the room, and each of you has a different job for discussion each week. This page provides detailed instructions for this set of assignments; the [assignments page](assignments.qmd) has the summary and the [syllabus](syllabus.qmd) has grade weights and policies.
+
+## The note
+
+Bring **five** printed copies of your structured session notes **to class** — one for me, and one for each of you. Each note has two parts.
+
+### Part 1 — the core (200–300 words, everyone)
+
+Answer three questions about the day's reading:
+
+1. **The claim.** What is the reading's central causal claim about development? State it in your own words, as precisely as you can — what causes what, through what mechanism?
+2. **The evidence.** What evidence does the author offer, and does it convince you? Name the kind of evidence (historical narrative, cross-country comparison, case study, experiment) and say where it is strongest and weakest.
+3. **Your argument.** One point you are prepared to argue in class — a disagreement with the author, an extension, or a tension with something we read earlier.
+
+### Part 2 — your role (100–150 words)
+
+Each week you hold one of four roles, and your note adds a short section written from that role's perspective:
+
+::: {.info-box}
+### {{< fa compass >}} Discussion Leader
+Develop a set of 3–5 discussion questions that you think are most central to understanding and evaluating the reading. Good discussion questions move progressively from concrete to interpretive and from narrow to wide. Next to each question, provide a sentence on why this question matters. In class, you open the discussion and keep it moving — when a thread exhausts itself, you bring us to the next question. I, as the instructor, will help to keep the conversation moving productively and can assist students with decoding any questions that arise from the reading. Note that in many class sessions I will have a short set of slides to present to help ground the discussion in a clear narrative arc that is informed by the structure of international development as an academic discipline.
+:::
+
+::: {.info-box}
+### {{< fa scale-balanced >}} Skeptic
+Interrogate the evidence. Identify the **weakest link in the causal chain**: an alternative explanation the author hasn't ruled out, a measurement or design problem, a case that doesn't fit. In class, you make the strongest version of the counterargument — even if you personally find the author convincing.
+:::
+
+::: {.info-box}
+### {{< fa diagram-project >}} Connector
+Tie the reading to the rest of the course. Where does it **agree, conflict, or fill a gap** relative to earlier books and articles? What would this author say to one we've already read? In class, you will bring in these comparisons — and your connections will help revise and update the shared causal map we will develop throughout the semester to inform each student's course précis.
+:::
+
+::: {.info-box}
+### {{< fa briefcase >}} Practitioner
+Translate the argument into practice. If this author is right, **what should a government, international organization, NGO, or firm do differently?** What would the argument's policy implications cost, and who would resist them? In class, you ground the discussion in application.
+:::
+
+## Rotation
+
+Roles are assigned in week 1 and **rotate weekly**, so you hold each role for a full week (both sessions) and cycle through all four roughly every four weeks — about three turns in each role across the semester. The rotation schedule is posted on Canvas alongside the Data Project 1 region sign-up sheet.
+
+## How notes get used
+
+We open most sessions with a short slide-based lecture from me. This will anchor our discussion to broader ideas, claims, and debates in the academic and practitioner community. Then, we will lay out the four Part 1 claims side by side, and you will each have a few minutes to write down any observations that arise from reading your peers' responses next to yours. Where your readings of the book diverge is where discussion starts — divergence is material to explore, not an indication that someone made an error of interpretation. The Discussion Leader's agenda structures the rest of the hour, the Skeptic and Connector give the discussion its friction and its memory, and the Practitioner keeps us honest about stakes. Nothing you write is filed away unread; all of it does work in the room.
+
+Save everything: your Part 1 claims and the Connector work in particular will be important as you develop your [course précis](course-precis.qmd).
+
+## Logistics and grading
+
+- **Length:** 300–450 words total (200–300 core + 100–150 role). The word limits are real and I will enforce them. Being able to distill your thoughts is part of the skill you are developing through this assignment.
+- **Due:** on paper at the start of class. Late notes receive no credit (the class needs them *before* discussion).
+- **Grading:** credit/no-credit. Roughly 21 sessions require notes; your **best 18 count**, so you can miss or fumble a few without a grade penalty.
+- **Async week (Nov 16):** the structured discussion of *Poor Economics* chapters 8–10 uses the Part 1 template only, posted to a Canvas discussion board — initial post by Mon Nov 16 at COB, responses to your colleagues by Wed Nov 18 at COB. No role sections that week. This discussion counts toward your participation grade, not toward the session-notes best-18.
+- **AI policy:** session notes must be written in your own words, without generative AI — they are your thinking made visible, and the gap between what you wrote and what you can say in the room is immediately obvious. See the [syllabus](syllabus.qmd).

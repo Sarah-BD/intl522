@@ -1,0 +1,43 @@
+---
+title: "Resources"
+subtitle: "Data sources, writing help, and where to go deeper"
+---
+
+## Data Sources for the Data Projects
+
+### Macro (Project 1: measuring development)
+
+- [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators) — the World Bank's flagship cross-country database
+- [World Bank Poverty and Inequality Platform (PIP)](https://pip.worldbank.org/) — international poverty lines and distributional data
+- [UNDP Human Development Reports](https://hdr.undp.org/) — HDI, inequality-adjusted HDI, and related indices
+- [Global Multidimensional Poverty Index (OPHI)](https://ophi.org.uk/global-mpi/) — the MPI and its components
+- [Our World in Data](https://ourworldindata.org/) — long-run series with unusually good documentation of sources and caveats
+- [Maddison Project Database](https://www.rug.nl/ggdc/historicaldevelopment/maddison/) — historical GDP per capita estimates
+- [V-Dem](https://www.v-dem.net/) — measures of democracy and governance
+
+### Micro (Project 2: the economic lives of the poor)
+
+- [DHS Program](https://dhsprogram.com/) — Demographic and Health Surveys (registration required, free)
+- [LSMS](https://www.worldbank.org/en/programs/lsms) — the World Bank's Living Standards Measurement Study household surveys
+- [Global Findex](https://www.worldbank.org/en/publication/globalfindex) — how adults save, borrow, make payments, and manage risk
+- [J-PAL Evaluations](https://www.povertyactionlab.org/evaluations) — randomized evaluations, many with public data
+- [IPUMS International](https://international.ipums.org/) — harmonized census microdata
+
+## Development Research and Debate
+
+- [Center for Global Development](https://www.cgdev.org/) — research and blogs at the research–policy interface
+- [VoxDev](https://voxdev.org/) — accessible summaries of frontier development economics
+- [World Bank Development Impact blog](https://blogs.worldbank.org/en/impactevaluations) — methods-focused, useful for evaluating evidence
+- [Trade Talks](https://tradetalkspodcast.com/) and [Ideas of India](https://www.mercatus.org/ideasofindia) — podcasts that regularly cover development topics well
+
+## Writing and Research Help
+
+- [IU Libraries](https://libraries.indiana.edu/) — and the [International Studies research guide](https://guides.libraries.indiana.edu/) for finding scholarship
+- [Zotero](https://www.zotero.org/) — free citation management; learn it now, thank yourself at the prospectus stage
+- Writing Tutorial Services at [Wells Library](https://wts.indiana.edu/) — free consultations at any stage of drafting
+- For policy-memo genre conventions: the [Harvard Kennedy School policy-memo guidance](https://policymemos.hks.harvard.edu/) is a solid model
+
+## Course Logistics
+
+- [Canvas](https://canvas.iu.edu) — readings, submissions, announcements, grades
+- [Schedule an appointment](https://bookings.cloud.microsoft/book/ProfBDsOfficeHours@bookings.iu.edu/?ismsaljsauthenabled=true) — office hours via Microsoft Bookings

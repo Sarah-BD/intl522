@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - syllabus.qmd
+    - schedule.qmd
+    - assignments.qmd
+    - session-notes-roles.qmd
+    - final-project.qmd
+    - course-precis.qmd
+    - data-projects.qmd
+    - resources.qmd
+    # content/ and slides/ pages will be added to the render list as they are built
+    # teaching-notes/ and _archive/ are intentionally never rendered
+
+website:
+  title: "INTL-I 522: Global Development"
+  description: "Sarah Bauerle Danzman | Indiana University | Fall 2026"
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+      - text: "Assignments"
+        href: assignments.qmd
+      - text: "Resources"
+        href: resources.qmd
+    tools:
+      - icon: envelope
+        href: mailto:sbauerle@iu.edu
+        text: Email
+  page-footer:
+    left: "INTL-I 522 · Fall 2026 · Prof. Sarah Bauerle Danzman"
+    center: "Content licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
+    right: "Hamilton Lugar School of Global and International Studies · Indiana University"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

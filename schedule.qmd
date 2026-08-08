@@ -1,0 +1,72 @@
+---
+title: "Course Schedule"
+subtitle: "Mondays & Wednesdays, 12:45–2:00 PM · Cedar Hall C107"
+toc: false
+---
+
+This course runs **August 24 – December 9, 2026**, meeting **Mondays and Wednesdays**. Complete all assigned reading **before** the session it is listed under, and bring five copies of your session notes to class (one for me, and one for each of you). I will do my best to adhere to the schedule below, but it is a living document and I reserve the right to alter it as the semester progresses.
+
+::: {.info-box}
+### {{< fa book >}} Readings
+Six books anchor the course (see the [Syllabus](syllabus.qmd) for full citations); articles are posted on Canvas.
+:::
+
+---
+
+## Part I · What is development, and how did the rich world get rich?
+
+| Date | Day | Topic & reading | In class / due |
+|------|-----|-----------------|----------------|
+| Aug 24 | Mon | **Course introduction: What is global development?** Review the syllabus. | Discussion; course setup |
+| Aug 26 | Wed | Sen, *Development as Freedom* (first half) | Session notes begin |
+| Aug 31 | Mon | Sen, *Development as Freedom* (second half) | **Data Project 1 assigned** |
+| Sep 2 | Wed | *No class meeting (instructor at APSA).* Work on Data Project 1. | **Data Project 1 due Fri Sep 4, COB (Canvas)** — COB means 5:00 PM Eastern throughout |
+| Sep 7 | Mon | *No class — Labor Day* | — |
+| Sep 9 | Wed | McVety, "Wealth and Nations: The Origins of International Development Assistance," ch. 2 in Macekura & Manela, eds., *The Development Century: A Global History* (Cambridge UP, 2018), pp. 21–39 | **Data Project 1 debrief** |
+| Sep 14 | Mon | Koyama & Rubin, *How the World Became Rich*, chs. 1–3 | |
+| Sep 16 | Wed | Koyama & Rubin, chs. 4–6 | |
+| Sep 21 | Mon | Koyama & Rubin, chs. 7–10 | |
+
+## Part II · States, industrial transformation, and structural change
+
+| Date | Day | Topic & reading | In class / due |
+|------|-----|-----------------|----------------|
+| Sep 23 | Wed | Evans, *Embedded Autonomy*, chs. 1–4 | |
+| Sep 28 | Mon | Evans, chs. 5–7 | |
+| Sep 30 | Wed | Evans, chs. 8–10 | |
+| Oct 5 | Mon | **Mid-course synthesis workshop:** mapping the causal arguments of Sen, Koyama & Rubin, and Evans | Précis workshop |
+| Oct 7 | Wed | *No class meeting (instructor travel)* | **Final-project topic memo due Fri Oct 9, COB (Canvas)** |
+| Oct 12 | Mon | Cramer, Sender & Oqubay, *African Economic Development*, chs. 1–4 | |
+| Oct 14 | Wed | Cramer et al., chs. 5–7 | |
+| Oct 19 | Mon | Cramer et al., chs. 8–10 | |
+| Oct 21 | Wed | Juhász, Lane & Rodrik (2024): the new economics of industrial policy | |
+
+## Part III · The international system: austerity, aid architecture, and growth strategies
+
+| Date | Day | Topic & reading | In class / due |
+|------|-----|-----------------|----------------|
+| Oct 26 | Mon | Kentikelenis & Stubbs, *A Thousand Cuts*, chs. 1–3 | |
+| Oct 28 | Wed | Kentikelenis & Stubbs, chs. 4–6 | |
+| Nov 2 | Mon | Kentikelenis & Stubbs, chs. 7–8 | |
+| Nov 4 | Wed | Rodrik & Stiglitz (2024): growth strategies after the Washington Consensus | **Prospectus + annotated bibliography due Fri Nov 6, COB (Canvas)** |
+
+## Part IV · The micro view, new frontiers, and synthesis
+
+| Date | Day | Topic & reading | In class / due |
+|------|-----|-----------------|----------------|
+| Nov 9 | Mon | Banerjee & Duflo, *Poor Economics*, Introduction and chs. 1–3 | |
+| Nov 11 | Wed | *Poor Economics*, chs. 4–7 | |
+| Nov 16 | Mon | *No class meeting (instructor travel).* **Asynchronous structured discussion: *Poor Economics*, chs. 8–10** | Initial post due Mon Nov 16, COB; responses by Wed Nov 18, COB |
+| Nov 18 | Wed | *No class meeting (instructor travel).* Work on Data Project 2. | **Data Project 2 due Fri Nov 20, COB (Canvas)** |
+| Nov 23/25 | M/W | *No class — Thanksgiving break* | — |
+| Nov 30 | Mon | **AI and development I — the macro debate:** Jones, "A.I. and Our Economic Future" (NBER w34779, 2026); Acemoglu, "The Simple Macroeconomics of AI" (NBER w32487, 2024) | **Data Project 2 debrief; full project draft due.** Individual conferences this week |
+| Dec 2 | Wed | **AI and development II — the developing world:** Korinek & Stiglitz, "AI, Globalization, and Strategies for Economic Development" (NBER w28453); Otis et al., "The Uneven Impact of Generative AI on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya" (*Management Science*, 2025) | |
+| Dec 7 | Mon | **Final-project presentations** | |
+| Dec 9 | Wed | **Last day: course wrap and celebration** | |
+
+## Finals week
+
+| Date | Due |
+|------|-----|
+| Mon Dec 14 | Course précis, final version |
+| Wed Dec 16 | Final project, final version |

@@ -1,0 +1,80 @@
+---
+title: "Data Projects"
+subtitle: "Two applied exercises in reading development data · 7.5% each"
+---
+
+You will complete two data projects during this semester — one at the macro and one at the micro level. 
+
+In the first, you look at development from above — the aggregate measures that governments, international organizations, and scholars use to say whether a country is developing. 
+
+In the second, you look from below — household-level data on how poor families actually earn, spend, borrow, and manage risk. 
+
+These projects, then, function in part to help us address a question of **levels** in development. How do individual behaviors aggregate to economy-wide progress on a range of development measures? Is development an individualistic/household project or a social one? 
+
+These are **data literacy** projects, not statistics projects. I am not asking you to run regressions, and you do not need any statistical training beyond careful reading of charts and tables. The skills being practiced here are the ones you will use constantly in policy careers: finding credible data, understanding what a measure actually captures, presenting numbers in an unbiased way, and drawing conclusions that the data can support.
+
+::: {.info-box}
+### {{< fa robot >}} AI use on these projects
+Per the course [AI policy](syllabus.qmd), you may use generative AI to help you find data, write chart code, and wrangle spreadsheets — with disclosure. The selection of measures, the analysis, and every interpretive claim must be your own, and you will present and defend the work in class. Include a brief AI-use note with your submission. You also must double check that your AI agent is providing you with real data rather than hallucinations. In class, we will briefly discuss strategies for verification when using AI tools.
+:::
+
+---
+
+## Data Project 1 — Measuring Development
+
+::: {.assignment-meta}
+Assigned Mon Aug 31 · [Due Friday Sep 4 by COB, on Canvas]{.due-date} · 7.5%
+:::
+
+How development is measured shapes what development means — this is one of Sen's central points, and this project helps you see this in practice by comparing different measures of development.
+
+### The task
+
+1. **Choose a region** (Sub-Saharan Africa, South Asia, Latin America, Southeast Asia, MENA, or Central Asia), and within it, **three focus countries** with different development trajectories. Each student should take a different region — coordinate on the sign-up sheet posted on Canvas.
+2. **Choose at least three distinct measures of development.** At least one must be income-based (GDP per capita, ideally PPP-adjusted; or the international poverty headcount) and at least one must be non-income or composite (HDI, the Multidimensional Poverty Index, inequality-adjusted HDI, life expectancy, mean years of schooling). The [resources page](resources.qmd) lists where you can find each of these data sources.
+3. **Chart the trends.** For each measure, show how your focus countries have moved over the longest sensible window the data allow (for GDP per capita that may be 60 years; for the MPI it may be 15 — and that difference in coverage is itself worth discussing). Every figure needs labeled axes, units, years, and a source line.
+4. **Analyze what the measures capture and hide.** Where do your measures agree about which country is doing well, and where do they disagree? What does each measure assume development *is*? What would Sen say about each? Which countries look different depending on the yardstick — and why, concretely?
+5. **Take a position.** Close with a short recommendation: if you could report only one of your measures to a minister or country director to track this region's progress, which would you choose, and what would you be knowingly giving up?
+
+### The deliverable
+
+A **data brief of 3–4 pages** (single-spaced, figures included in the page count), written for an intelligent professional reader, plus a **data appendix** (not counted in the page limit) listing every series you used: indicator name, source, years covered, and any gaps or oddities you encountered. Submit as a PDF on Canvas by COB Sept 4, and come to class on Sept 9 ready to present your findings in about **five minutes** at the debrief — expect questions about why the measures disagree.
+
+---
+
+## Data Project 2 — The Economic Lives of the Poor
+
+::: {.assignment-meta}
+Assigned week of Nov 16 · [Due Fri Nov 20, COB; on Canvas]{.due-date} · presented at the Nov 30 debrief · 7.5%
+:::
+
+Banerjee and Duflo's *Poor Economics* emphasizes a different level of analysis: instead of asking how poor countries behave, they ask how poor households behave. This project has you explore this microlevel of analysis with real household data — and then confront what you find with the macroeconomic picture you built in Project 1.
+
+### The task
+
+1. **Choose one country** — ideally, one of your three focus countries from Project 1, so the macro–micro comparison is direct. (If you switch countries, say why in the brief.)
+2. **Build a portrait of poor households' economic lives** in that country, covering **three of these five domains**, with at least six indicators total:
+   - *Earning:* income sources, informality, agricultural vs. non-farm work
+   - *Spending:* budget shares, food vs. non-food, spending that surprises you
+   - *Financial lives:* saving, borrowing, account ownership (Global Findex is built for this)
+   - *Risk:* health shocks, insurance coverage, coping strategies
+   - *Investing in the future:* education and health spending, school enrollment and attainment
+3. **Use household-level sources.** DHS STATcompiler, Global Findex, LSMS tables, IPUMS tabulations, or a J-PAL evaluation's published data — the [resources page](resources.qmd) links each. These tools give you tabulated indicators; you do not need to analyze or manipulate raw survey microdata (though you may).
+4. **Confront the two levels.** Where does the household view confirm what Banerjee and Duflo report, and where does your country diverge from their composite picture of "the poor"? Most importantly: **what does the micro view reveal that your Project 1 aggregates concealed** — and is there anything the aggregates showed that the household data cannot?
+
+### The deliverable
+
+Same format as Project 1: a **3–4 page data brief** with a data appendix, submitted as a PDF on Canvas by **Friday, Nov 20 at COB**, and a roughly **five-minute presentation** at the Nov 30 debrief.
+
+---
+
+## How I will evaluate both projects
+
+| Criterion | Weight | What I am looking for |
+|-----------|--------|----------------------|
+| Data handling & documentation | 25% | Appropriate sources; correct units and comparisons; a complete, honest data appendix; gaps acknowledged rather than papered over |
+| Figures | 25% | Charts that are accurate, labeled, sourced, and readable — a figure should make its point without the caption doing all the work |
+| Interpretation & measurement critique | 30% | Analysis that goes beyond describing the lines: what the measures assume, what they hide, where they disagree, and why |
+| Connection & communication | 20% | Explicit engagement with course arguments (Sen for Project 1; Banerjee & Duflo for Project 2); clear, precise prose within the page limit |
+
+The most common way to lose points on assignments like these is to submit a data dump — many charts, little argument. The second most common way is false precision: treating a poverty rate as exact when the underlying survey has a confidence interval and a five-year gap between rounds. Noticing imprecision is not a weakness of your brief; it is an important skill to develop.
