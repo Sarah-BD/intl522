@@ -150,16 +150,14 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="readings"><i class="fa-solid fa-book" aria-label="book"></i> Readings</h3>
 <p>Six books anchor the course (see the <a href="./syllabus.html">Syllabus</a> for full citations); articles are posted on Canvas.</p>
 </section>
+<section id="slides" class="level3 info-box">
+<h3 class="anchored" data-anchor-id="slides"><i class="fa-solid fa-laptop" aria-label="laptop"></i> Slides</h3>
+<p>Where a session opens with a short framing lecture, the deck is linked from its row below and posted before class. Most sessions are discussion only and have no deck.</p>
+</section>
 <hr>
 <section id="part-i-what-is-development-and-how-did-the-rich-world-get-rich" class="level2">
 <h2 class="anchored" data-anchor-id="part-i-what-is-development-and-how-did-the-rich-world-get-rich">Part I · What is development, and how did the rich world get rich?</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 13%">
-<col style="width: 11%">
-<col style="width: 38%">
-<col style="width: 36%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Date</th>
@@ -173,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 <td>Aug 24</td>
 <td>Mon</td>
 <td><strong>Course introduction: What is global development?</strong> Review the syllabus.</td>
-<td>Discussion; course setup</td>
+<td><a href="slides/day01-introduction.html"><i class="fa-solid fa-laptop" aria-label="laptop"></i> Slides</a> · Course setup</td>
 </tr>
 <tr class="even">
 <td>Aug 26</td>
@@ -536,7 +534,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/Sarah-BD\.github\.io\/intl522\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
