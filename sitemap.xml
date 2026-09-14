@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/slides/day01-introduction.html</loc>
-    <lastmod>2026-08-19T10:12:15.196Z</lastmod>
+    <loc>https://Sarah-BD.github.io/intl522/slides/day05-koyama-rubin.html</loc>
+    <lastmod>2026-09-13T19:07:21.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/guides/reading-academic-books.html</loc>
+    <lastmod>2026-08-27T15:36:47.408Z</lastmod>
   </url>
   <url>
     <loc>https://Sarah-BD.github.io/intl522/data-projects.html</loc>
@@ -26,7 +30,7 @@
   </url>
   <url>
     <loc>https://Sarah-BD.github.io/intl522/schedule.html</loc>
-    <lastmod>2026-08-19T10:13:40.449Z</lastmod>
+    <lastmod>2026-09-13T19:07:26.714Z</lastmod>
   </url>
   <url>
     <loc>https://Sarah-BD.github.io/intl522/session-notes-roles.html</loc>
@@ -39,5 +43,9 @@
   <url>
     <loc>https://Sarah-BD.github.io/intl522/resources.html</loc>
     <lastmod>2026-08-08T15:13:09.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/slides/day01-introduction.html</loc>
+    <lastmod>2026-08-19T10:12:15.196Z</lastmod>
   </url>
 </urlset>
