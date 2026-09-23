@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/slides/day05-koyama-rubin.html</loc>
-    <lastmod>2026-09-13T19:07:21.282Z</lastmod>
+    <loc>https://Sarah-BD.github.io/intl522/slides/day08-trade-and-intervention.html</loc>
+    <lastmod>2026-09-23T00:27:48.066Z</lastmod>
   </url>
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/guides/reading-academic-books.html</loc>
-    <lastmod>2026-08-27T15:36:47.408Z</lastmod>
+    <loc>https://Sarah-BD.github.io/intl522/slides/day01-introduction.html</loc>
+    <lastmod>2026-08-19T10:12:15.196Z</lastmod>
   </url>
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/data-projects.html</loc>
-    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/final-project.html</loc>
-    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/assignments.html</loc>
-    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/syllabus.html</loc>
-    <lastmod>2026-08-08T15:13:09.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/index.html</loc>
-    <lastmod>2026-08-08T15:13:09.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/schedule.html</loc>
-    <lastmod>2026-09-13T19:07:26.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Sarah-BD.github.io/intl522/session-notes-roles.html</loc>
+    <loc>https://Sarah-BD.github.io/intl522/resources.html</loc>
     <lastmod>2026-08-08T15:13:09.032Z</lastmod>
   </url>
   <url>
@@ -41,11 +17,39 @@
     <lastmod>2026-08-08T15:13:09.031Z</lastmod>
   </url>
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/resources.html</loc>
+    <loc>https://Sarah-BD.github.io/intl522/session-notes-roles.html</loc>
     <lastmod>2026-08-08T15:13:09.032Z</lastmod>
   </url>
   <url>
-    <loc>https://Sarah-BD.github.io/intl522/slides/day01-introduction.html</loc>
-    <lastmod>2026-08-19T10:12:15.196Z</lastmod>
+    <loc>https://Sarah-BD.github.io/intl522/schedule.html</loc>
+    <lastmod>2026-09-22T22:30:39.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/index.html</loc>
+    <lastmod>2026-08-08T15:13:09.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/syllabus.html</loc>
+    <lastmod>2026-08-08T15:13:09.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/assignments.html</loc>
+    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/final-project.html</loc>
+    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/data-projects.html</loc>
+    <lastmod>2026-08-08T15:13:09.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/guides/reading-academic-books.html</loc>
+    <lastmod>2026-08-27T15:36:47.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sarah-BD.github.io/intl522/slides/day05-koyama-rubin.html</loc>
+    <lastmod>2026-09-13T19:07:21.282Z</lastmod>
   </url>
 </urlset>
