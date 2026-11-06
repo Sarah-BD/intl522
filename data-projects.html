@@ -149,6 +149,14 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#the-deliverable-1" id="toc-the-deliverable-1" class="nav-link" data-scroll-target="#the-deliverable-1">The deliverable</a></li>
   </ul></li>
   <li><a href="#how-i-will-evaluate-both-projects" id="toc-how-i-will-evaluate-both-projects" class="nav-link" data-scroll-target="#how-i-will-evaluate-both-projects">How I will evaluate both projects</a></li>
+  <li><a href="#dp2-guide" id="toc-dp2-guide" class="nav-link" data-scroll-target="#dp2-guide">Data Project 2 quick-start guide</a>
+  <ul class="collapse">
+  <li><a href="#step-0-check-your-countrys-coverage-5-minutes" id="toc-step-0-check-your-countrys-coverage-5-minutes" class="nav-link" data-scroll-target="#step-0-check-your-countrys-coverage-5-minutes">Step 0: Check your country’s coverage (5 minutes)</a></li>
+  <li><a href="#step-1-dhs-tables" id="toc-step-1-dhs-tables" class="nav-link" data-scroll-target="#step-1-dhs-tables">Step 1: DHS tables</a></li>
+  <li><a href="#step-2-global-findex-2025" id="toc-step-2-global-findex-2025" class="nav-link" data-scroll-target="#step-2-global-findex-2025">Step 2: Global Findex 2025</a></li>
+  <li><a href="#optional-third-source" id="toc-optional-third-source" class="nav-link" data-scroll-target="#optional-third-source">Optional third source</a></li>
+  <li><a href="#what-a-finished-comparison-looks-like-tanzania-dhs-2022-and-findex-2024" id="toc-what-a-finished-comparison-looks-like-tanzania-dhs-2022-and-findex-2024" class="nav-link" data-scroll-target="#what-a-finished-comparison-looks-like-tanzania-dhs-2022-and-findex-2024">What a finished comparison looks like (Tanzania, DHS 2022 and Findex 2024)</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -212,26 +220,33 @@ ul.task-list li input[type="checkbox"] {
 <div class="assignment-meta">
 <p>Assigned week of Nov 16 · <span class="due-date">Due Fri Nov 20, COB; on Canvas</span> · presented at the Nov 30 debrief · 7.5%</p>
 </div>
-<p>Banerjee and Duflo’s <em>Poor Economics</em> emphasizes a different level of analysis: instead of asking how poor countries behave, they ask how poor households behave. This project has you explore this microlevel of analysis with real household data — and then confront what you find with the macroeconomic picture you built in Project 1.</p>
+<p>Banerjee and Duflo’s <em>Poor Economics</em> emphasizes a different level of analysis: instead of analyzing development as a country-level attribute, they are concerned with household development outcomes. This project has you explore that micro level with real household-survey data, and then compare what you find with the macro picture you built in Project 1.</p>
+<p>As many authors we’ve read this semester have noted, national-level averages often obscure important variation within countries — within income deciles but also across subnational units and/or demographic groups. In this project you will explore within-country variation in development outcomes so that you can develop a more grounded understanding of how much country averages hide.</p>
 <section id="the-task-1" class="level3">
 <h3 class="anchored" data-anchor-id="the-task-1">The task</h3>
 <ol type="1">
-<li><strong>Choose one country</strong> — ideally, one of your three focus countries from Project 1, so the macro–micro comparison is direct. (If you switch countries, say why in the brief.)</li>
-<li><strong>Build a portrait of poor households’ economic lives</strong> in that country, covering <strong>three of these five domains</strong>, with at least six indicators total:
+<li><p><strong>Choose one country.</strong> Ideally, use one of your three focus countries from Project 1 so the macro–micro comparison is direct. Before you commit, check the coverage table in the <a href="#dp2-guide">quick-start guide</a> below (the quick-start guide was developed with AI assistance, so you should double-check for accuracy). If your first-choice country has no recent Demographic and Health Survey data, it is probably best to switch to a country in the same region that does.</p></li>
+<li><p><strong>Use two required household-survey sources.</strong> Both data sources below publish ready-made tables broken out by a household’s place in the country-wide distribution, so you do not need to clean raw microdata. If you find yourself spending time on data cleaning, please STOP. That means something has gone wrong. Come see me instead.</p>
 <ul>
-<li><em>Earning:</em> income sources, informality, agricultural vs.&nbsp;non-farm work</li>
-<li><em>Spending:</em> budget shares, food vs.&nbsp;non-food, spending that surprises you</li>
-<li><em>Financial lives:</em> saving, borrowing, account ownership (Global Findex is built for this)</li>
-<li><em>Risk:</em> health shocks, insurance coverage, coping strategies</li>
-<li><em>Investing in the future:</em> education and health spending, school enrollment and attainment</li>
+<li><strong>DHS</strong> (Demographic and Health Surveys), via STATcompiler or the direct-download link in the <a href="#dp2-guide">quick-start guide</a> below. Results are broken out by <strong>wealth quintile</strong> (poorest 20% to richest 20% of households, ranked by an index of assets), <strong>urban/rural residence</strong>, and <strong>region</strong>.</li>
+<li><strong>Global Findex 2025</strong> (survey fielded in 2024). Results are broken out by <strong>income group</strong> (the poorest 40% and the richest 60% of households within the country), urban/rural residence, and sex.</li>
 </ul></li>
-<li><strong>Use household-level sources.</strong> DHS STATcompiler, Global Findex, LSMS tables, IPUMS tabulations, or a J-PAL evaluation’s published data — the <a href="./resources.html">resources page</a> links each. These tools give you tabulated indicators; you do not need to analyze or manipulate raw survey microdata (though you may).</li>
-<li><strong>Confront the two levels.</strong> Where does the household view confirm what Banerjee and Duflo report, and where does your country diverge from their composite picture of “the poor”? Most importantly: <strong>what does the micro view reveal that your Project 1 aggregates concealed</strong> — and is there anything the aggregates showed that the household data cannot?</li>
+<li><p><strong>Build a portrait of poor households’ economic lives</strong> that covers <strong>three of the five domains listed below</strong>, using at least six indicators in total (so, two indicators per domain). For every indicator, show the poorest group alongside the richest group and the national average.</p>
+<ul>
+<li><em>Earning a living:</em> agricultural vs.&nbsp;non-farm work, wage income, payment in cash or in kind, income from crop sales</li>
+<li><em>Financial lives:</em> accounts and mobile money, saving (formal and informal), borrowing (from family, savings groups, shops, lenders)</li>
+<li><em>Resilience to adversity:</em> coming up with emergency money, where it comes from, how long a household could last without its main income, health insurance, difficulty paying for medical care, exposure to natural disasters</li>
+<li><em>Investing in the future:</em> school attendance at primary and secondary age, child stunting, worry about school fees, saving for old age</li>
+<li><em>Living conditions:</em> electricity, water, sanitation, land and housing ownership, compared across urban/rural or regions (see the warning about wealth quintiles in the guide)</li>
+</ul></li>
+<li><p><strong>Check your measures against each other.</strong> Your two sources define “the poor” differently: DHS ranks households by the assets they own, while Findex ranks them by the income respondents report. Find at least <strong>one place where the two sources ostensibly measure the same concept</strong> (account ownership and mobile money are the easiest) and explain any disagreement between them. Is it the definition of the poor, who was asked (all adults, or only women aged 15–49), the denominator, the survey year, or the wording of the question? Where DHS reports a confidence interval, use it.</p></li>
+<li><p><strong>Compare the two levels.</strong> Where does your country’s household picture confirm what Banerjee and Duflo report, and where does it diverge from their composite picture of “the poor”? Most importantly: <strong>what does the micro view show that your Project 1 aggregates concealed?</strong> And is there anything the aggregates showed that the household data cannot?</p></li>
 </ol>
 </section>
 <section id="the-deliverable-1" class="level3">
 <h3 class="anchored" data-anchor-id="the-deliverable-1">The deliverable</h3>
-<p>Same format as Project 1: a <strong>3–4 page data brief</strong> with a data appendix, submitted as a PDF on Canvas by <strong>Friday, Nov 20 at COB</strong>, and a roughly <strong>five-minute presentation</strong> at the Nov 30 debrief.</p>
+<p>Same format as Project 1: a <strong>3–4 page data brief</strong> (single-spaced, figures included) and a data appendix, submitted as a PDF on Canvas by <strong>Friday, Nov 20 at COB</strong>, plus a roughly <strong>five-minute presentation</strong> at the Nov 30 debrief.</p>
+<p>For each series, the data appendix lists: the indicator name exactly as the source labels it, source, survey year, <strong>how the poor group is defined</strong> (wealth quintile, income group, or residence), <strong>who is in the denominator</strong> (for example, “women 15–49 who own a mobile phone”), and the confidence interval if one is reported.</p>
 <hr>
 </section>
 </section>
@@ -274,8 +289,301 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 <p>The most common way to lose points on assignments like these is to submit a data dump — many charts, little argument. The second most common way is false precision: treating a poverty rate as exact when the underlying survey has a confidence interval and a five-year gap between rounds. Noticing imprecision is not a weakness of your brief; it is an important skill to develop.</p>
+<hr>
+</section>
+<section id="dp2-guide" class="level2">
+<h2 class="anchored" data-anchor-id="dp2-guide">Data Project 2 quick-start guide</h2>
+<p>This quick-start guide was developed using AI. Claude was used to test access to all datasets. None required an account or registration as of November 6, 2026.</p>
+<section id="step-0-check-your-countrys-coverage-5-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="step-0-check-your-countrys-coverage-5-minutes">Step 0: Check your country’s coverage (5 minutes)</h3>
+<p>The table lists every country whose most recent standard DHS was fielded in 2015 or later, with the year of that survey. A ✓ means the survey publishes the domain broken out by wealth quintile. Findex 2025 covers most low- and middle-income countries, including nearly every country below and most of Latin America and the Middle East, so check it on the download page.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 43%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Region</th>
+<th>Country (latest DHS)</th>
+<th style="text-align: center;">Financial (bank / mobile money)</th>
+<th style="text-align: center;">Health insurance</th>
+<th style="text-align: center;">Work in agriculture</th>
+<th style="text-align: center;">School attendance</th>
+<th style="text-align: center;">Stunting</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sub-Saharan Africa</td>
+<td>Angola 2023</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Benin 2017; Burkina Faso 2021; Burundi 2016; Cameroon 2018; DR Congo 2023; Côte d’Ivoire 2021; Ethiopia 2024; Gabon 2019; Gambia 2019; Ghana 2022; Guinea 2018; Lesotho 2023; Liberia 2019; Madagascar 2021; Malawi 2024; Mali 2023; Mauritania 2020; Mozambique 2022; Nigeria 2024; Senegal 2023; Sierra Leone 2019; Tanzania 2022; Uganda 2016; Zambia 2024; Zimbabwe 2015</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Kenya: use <strong>2022</strong> (the 2025 survey’s tables are only partly released)</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Rwanda 2025</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>South Africa 2016</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>South Asia</td>
+<td>Bangladesh 2022; India 2020 (NFHS-5); Nepal 2022; Pakistan 2017; Maldives 2016</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Afghanistan 2015</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td>Southeast Asia &amp; Pacific</td>
+<td>Cambodia 2021</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Indonesia 2017; Papua New Guinea 2017</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Philippines 2022</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Timor-Leste 2016</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Myanmar 2016</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td>Latin America &amp; Caribbean</td>
+<td>Haiti 2016</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Guatemala 2015</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Colombia 2015</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td>MENA &amp; Europe</td>
+<td>Jordan 2023</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Albania 2017; Armenia 2016</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>Central Asia</td>
+<td>Tajikistan 2023</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+</tbody>
+</table>
+<p><strong>If your Project 1 country is not listed</strong> (for example Mexico, Brazil, Egypt, Morocco, Vietnam, or Kazakhstan), you have two options: switch to a listed country in the same region, or build your portrait mainly from Findex (financial lives plus resilience to adversity) and use DHS for a neighboring country as a point of comparison. Either way, explain your choice in the brief.</p>
+</section>
+<section id="step-1-dhs-tables" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-dhs-tables">Step 1: DHS tables</h3>
+<p><strong>Route 1: STATcompiler (point and click).</strong> Go to <a href="https://www.statcompiler.com">statcompiler.com</a> and choose your country, then your indicators. Add <strong>wealth quintile</strong> and <strong>residence</strong> as background characteristics, and export to Excel.</p>
+<p><strong>Route 2: one-click download (most reliable).</strong> Paste this address into your browser, replacing <code>TZ</code> with your country’s two-letter DHS code and <code>2022</code> with your survey year. The browser will display a CSV, which you save with File → Save. DHS codes do not always match ISO codes: India is <code>IA</code>, Nepal is <code>NP</code>, Bangladesh is <code>BD</code>, and Cambodia is <code>KH</code>. The full list is at <a href="https://api.dhsprogram.com/rest/dhs/countries">api.dhsprogram.com/rest/dhs/countries</a>.</p>
+<pre><code>https://api.dhsprogram.com/rest/dhs/data?countryIds=TZ&amp;surveyYear=2022&amp;breakdown=all&amp;perpage=5000&amp;f=csv&amp;indicatorIds=EM_OCCP_W_AGR,EM_OCCP_M_AGR,EM_WERN_W_WIF,CO_MOBB_W_BNK,CO_MOBB_M_BNK,CO_MOBB_W_MBF,CO_MOBB_M_MBF,AH_HINS_W_ANY,AH_HINS_M_ANY,RH_PAHC_W_MON,ED_NARP_B_BTH,ED_NARS_B_BTH,CN_NUTS_C_HA2,WE_OWNA_W_LNO,HC_ELEC_H_ELC,ED_LITR_W_LIT</code></pre>
+<p>This link pulls 16 indicators: work in agriculture (women, men); women’s control over their own earnings; bank account and mobile-money use (women, men); any health insurance (women, men); “getting money for treatment” as a barrier to health care; net primary and secondary school attendance; child stunting; women who own no land; household electricity; and women’s literacy. Each indicator comes with every breakdown the survey publishes. Filter the <code>CharacteristicCategory</code> column to <code>Wealth quintile</code>, <code>Residence</code>, or <code>Total</code>. Read the <code>Value</code>, <code>CILow</code>, and <code>CIHigh</code> columns, and use <code>DenominatorWeighted</code> to see how many people a number rests on.</p>
+<p><strong>Two things to watch in DHS.</strong></p>
+<ul>
+<li><em>Denominators.</em> Many DHS indicators cover a subgroup: women aged 15–49, <em>employed</em> women, or women <em>who own a mobile phone</em>. Read the indicator definition before you compare it with anything else.</li>
+<li><em>Circularity.</em> The DHS wealth quintiles are built from the assets a household owns, including electricity, water source, and toilet type. “Households with electricity by wealth quintile” is therefore partly true by construction. For living conditions, compare urban with rural or one region with another.</li>
+</ul>
+</section>
+<section id="step-2-global-findex-2025" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-global-findex-2025">Step 2: Global Findex 2025</h3>
+<ul>
+<li><strong>Excel or CSV:</strong> On the Global Findex <a href="https://www.worldbank.org/en/publication/globalfindex/download-data">download page</a>, take the country-level file (<em>GlobalFindexDatabase2025.xlsx</em>). It reports each indicator for all adults and separately for the poorest 40% and richest 60%, rural and urban adults, and women and men. The glossary file on the same page explains each indicator code.</li>
+<li><strong>Browse online:</strong> The same data are in the World Bank’s <a href="https://data360.worldbank.org/en/dataset/WB_FINDEX">Data360 Findex dataset</a> and in <a href="https://databank.worldbank.org/source/global-financial-inclusion">DataBank</a>.</li>
+</ul>
+<p>Good indicators for this project include: account ownership (financial institution vs.&nbsp;mobile money); saved any money; saved using a savings club; borrowed from family or friends; purchased food on credit; borrowed for health purposes; coming up with emergency funds in 30 days (and its main source: family, work, sale of assets); how long the household could cover expenses after losing its main income; experienced a natural disaster; most worrying financial issue (medical costs, school fees); received wages; and received payments for agricultural products.</p>
+<p><strong>Watch:</strong> Some Findex indicators are shares of <em>all adults</em> and others are shares of <em>account owners only</em>. If a “total” falls outside the range of its own subgroups, the denominators differ.</p>
+</section>
+<section id="optional-third-source" class="level3">
+<h3 class="anchored" data-anchor-id="optional-third-source">Optional third source</h3>
+<ul>
+<li><strong>FAO Rural Livelihoods (RuLIS), on FAOSTAT</strong> (<a href="https://www.fao.org/faostat/en/#data/RLIS">fao.org/faostat/en/#data/RLIS</a>). These are harmonized indicators from about 50 countries’ household income surveys, many of them World Bank LSMS. This is the best free source for <strong>where household income comes from</strong>: the share of income from farming, agricultural wages, non-farm work, and transfers, and the share of crops eaten rather than sold. Results are broken out by rural/urban and by male- vs.&nbsp;female-headed household, not by quintile. On the FAOSTAT page, select a survey, indicators, and a qualifier; <strong>under “Source,” click Select All</strong>, or the query returns nothing. Coverage varies by survey: some survey years publish only the urban or only the rural figures.</li>
+</ul>
+</section>
+<section id="what-a-finished-comparison-looks-like-tanzania-dhs-2022-and-findex-2024" class="level3">
+<h3 class="anchored" data-anchor-id="what-a-finished-comparison-looks-like-tanzania-dhs-2022-and-findex-2024">What a finished comparison looks like (Tanzania, DHS 2022 and Findex 2024)</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 64%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Indicator</th>
+<th style="text-align: right;">Poorest</th>
+<th style="text-align: right;">Richest</th>
+<th style="text-align: right;">National</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Net secondary school attendance (DHS, quintiles)</td>
+<td style="text-align: right;">11.6%</td>
+<td style="text-align: right;">52.7%</td>
+<td style="text-align: right;">36.6%</td>
+</tr>
+<tr class="even">
+<td>Children stunted (DHS)</td>
+<td style="text-align: right;">38.6%</td>
+<td style="text-align: right;">14.6%</td>
+<td style="text-align: right;">30.0%</td>
+</tr>
+<tr class="odd">
+<td>Women: “getting money for treatment” a barrier to care (DHS)</td>
+<td style="text-align: right;">51.5%</td>
+<td style="text-align: right;">22.9%</td>
+<td style="text-align: right;">36.2%</td>
+</tr>
+<tr class="even">
+<td>Women with a bank account (DHS)</td>
+<td style="text-align: right;">0.2%</td>
+<td style="text-align: right;">21.4%</td>
+<td style="text-align: right;">7.1%</td>
+</tr>
+<tr class="odd">
+<td>Women using a phone for financial transactions, among phone owners (DHS)</td>
+<td style="text-align: right;">44.7%</td>
+<td style="text-align: right;">84.1%</td>
+<td style="text-align: right;">71.0%</td>
+</tr>
+<tr class="even">
+<td>Adults with a mobile money account (Findex, poorest 40% vs.&nbsp;richest 60%)</td>
+<td style="text-align: right;">43.7%</td>
+<td style="text-align: right;">58.9%</td>
+<td style="text-align: right;">52.9%</td>
+</tr>
+<tr class="odd">
+<td>Emergency funds in 30 days not difficult or only somewhat difficult (Findex)</td>
+<td style="text-align: right;">39.7%</td>
+<td style="text-align: right;">61.9%</td>
+<td style="text-align: right;">53.0%</td>
+</tr>
+<tr class="even">
+<td>Borrowed any money in the past year (Findex)</td>
+<td style="text-align: right;">58.1%</td>
+<td style="text-align: right;">56.3%</td>
+<td style="text-align: right;">57.0%</td>
+</tr>
+</tbody>
+</table>
+<p>Look at the two mobile-money rows. DHS seems to show far more mobile-money use than Findex, and a much steeper gap between rich and poor. Neither source is simply wrong. DHS compares the poorest <em>20%</em> with the richest <em>20%</em> and counts only women who own a phone. Findex compares the poorest <em>40%</em> with the richest <em>60%</em> and counts all adults. And notice that borrowing barely varies with income at all, which is a very Banerjee-and-Duflo finding.</p>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
